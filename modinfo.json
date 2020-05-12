@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "quickrot",
+  "name": "Quick Rot",
+  "description" : "Allows items to be rotted in a barrel",
+  "authors": ["JackPS9"],
+  "version": "1.0",
+  "dependencies": { 
+	"game": "",
+	"survival": ""
+  },
+  "website": "http://phentrixgames.com"
+}

@@ -1,0 +1,18 @@
+﻿{
+  "code": "rottingveg",
+  "sealHours": 168,
+  "ingredients": [
+    {
+      "type": "item",
+      "code": "game:vegetable-*",
+      "quantity": 1,
+      "name": "vegetable",
+      "allowedVariants": [ "carrot", "onion", "parsnip", "pumpkin", "turnip", "cabbage" ]
+    }
+  ],
+  "output": {
+    "type": "item",
+    "code": "game:rot",
+    "stackSize": 1
+  }
+}
