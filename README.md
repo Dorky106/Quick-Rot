@@ -1,5 +1,5 @@
 # Quick-Rot
 Vegetables - 7 days  
-Fruit - Coming Soon  
-Grain - Coming Soon  
+Fruit - 16 hours 
+Grain - 45 days 
 Protein - Coming Soon 
