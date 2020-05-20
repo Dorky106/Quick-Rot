@@ -1,0 +1,38 @@
+[
+    {
+        "code": "rottingveg",
+        "sealHours": 24,
+        "ingredients": [
+            {
+                "type": "item",
+                "code": "game:fruit-*",
+                "quantity": 1,
+                "name": "fruit",
+                "allowedVariants": [ "blueberry", "redcurrant", "whitecurrant", "blackcurrant", "saguaro" ]
+            }
+        ],
+        "output": {
+            "type": "item",
+            "code": "game:rot",
+            "stackSize": 1
+        }
+    },
+    {
+        "code": "rottingveg",
+        "sealHours": 48,
+        "ingredients": [
+            {
+                "type": "item",
+                "code": "game:fruit-*",
+                "quantity": 1,
+                "name": "fruit",
+                "allowedVariants": [ "cranberry" ]
+            }
+        ],
+        "output": {
+            "type": "item",
+            "code": "game:rot",
+            "stackSize": 1
+        }
+    }
+]

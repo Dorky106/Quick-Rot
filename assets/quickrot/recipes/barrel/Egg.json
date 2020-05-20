@@ -1,0 +1,18 @@
+{
+    "code": "rottingveg",
+    "sealHours": 44,
+    "ingredients": [
+        {
+            "type": "item",
+            "code": "game:egg-chicken-*",
+            "quantity": 1,
+            "name": "grain",
+            "allowedVariants": [ "raw", "boiled" ]
+        }
+    ],
+    "output": {
+        "type": "item",
+        "code": "game:rot",
+        "stackSize": 1
+    }
+}

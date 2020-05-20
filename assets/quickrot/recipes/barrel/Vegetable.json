@@ -1,0 +1,74 @@
+﻿[
+    {
+        "code": "rottingveg",
+        "sealHours": 108,
+        "ingredients": [
+            {
+                "type": "item",
+                "code": "game:vegetable-*",
+                "quantity": 1,
+                "name": "vegetable",
+                "allowedVariants": [ "pumpkin" ]
+            }
+        ],
+        "output": {
+            "type": "item",
+            "code": "game:rot",
+            "stackSize": 1
+        }
+    },
+    {
+        "code": "rottingveg",
+        "sealHours": 336,
+        "ingredients": [
+            {
+                "type": "item",
+                "code": "game:vegetable-*",
+                "quantity": 1,
+                "name": "vegetable",
+                "allowedVariants": [ "onion" ]
+            }
+        ],
+        "output": {
+            "type": "item",
+            "code": "game:rot",
+            "stackSize": 1
+        }
+    },
+    {
+        "code": "rottingveg",
+        "sealHours": 24,
+        "ingredients": [
+            {
+                "type": "item",
+                "code": "game:vegetable-*",
+                "quantity": 1,
+                "name": "vegetable",
+                "allowedVariants": [ "cookedcattailroot" ]
+            }
+        ],
+        "output": {
+            "type": "item",
+            "code": "game:rot",
+            "stackSize": 1
+        }
+    },
+    {
+        "code": "rottingveg",
+        "sealHours": 252,
+        "ingredients": [
+            {
+                "type": "item",
+                "code": "game:vegetable-*",
+                "quantity": 1,
+                "name": "vegetable",
+                "allowedVariants": [ "carrot", "cabbage", "turnip", "parsnip" ]
+            }
+        ],
+        "output": {
+            "type": "item",
+            "code": "game:rot",
+            "stackSize": 1
+        }
+    }
+]

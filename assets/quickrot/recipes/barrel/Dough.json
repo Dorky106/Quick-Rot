@@ -1,0 +1,18 @@
+{
+    "code": "rottingveg",
+    "sealHours": 24,
+    "ingredients": [
+        {
+            "type": "item",
+            "code": "game:dough-*",
+            "quantity": 1,
+            "name": "grain",
+            "allowedVariants": [ "spelt", "rye", "flax", "rice" ]
+        }
+    ],
+    "output": {
+        "type": "item",
+        "code": "game:rot",
+        "stackSize": 1
+    }
+}

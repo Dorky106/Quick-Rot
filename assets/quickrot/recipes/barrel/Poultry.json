@@ -1,0 +1,56 @@
+[
+    {
+        "code": "rottingveg",
+        "sealHours": 18,
+        "ingredients": [
+            {
+                "type": "item",
+                "code": "game:poultry-*",
+                "quantity": 1,
+                "name": "vegetable",
+                "allowedVariants": [ "raw" ]
+            }
+        ],
+        "output": {
+            "type": "item",
+            "code": "game:rot",
+            "stackSize": 1
+        }
+    },
+    {
+        "code": "rottingveg",
+        "sealHours": 60,
+        "ingredients": [
+            {
+                "type": "item",
+                "code": "game:poultry-*",
+                "quantity": 1,
+                "name": "vegetable",
+                "allowedVariants": [ "cooked" ]
+            }
+        ],
+        "output": {
+            "type": "item",
+            "code": "game:rot",
+            "stackSize": 1
+        }
+    },
+    {
+        "code": "rottingveg",
+        "sealHours": 2690,
+        "ingredients": [
+            {
+                "type": "item",
+                "code": "game:poultry-*",
+                "quantity": 1,
+                "name": "vegetable",
+                "allowedVariants": [ "cured" ]
+            }
+        ],
+        "output": {
+            "type": "item",
+            "code": "game:rot",
+            "stackSize": 1
+        }
+    }
+]

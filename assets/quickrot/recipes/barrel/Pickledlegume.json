@@ -1,0 +1,18 @@
+{
+    "code": "rottingveg",
+    "sealHours": 2660,
+    "ingredients": [
+        {
+            "type": "item",
+            "code": "game:pickledlegume-*",
+            "quantity": 1,
+            "name": "vegetable",
+            "allowedVariants": [ "soybean" ]
+        }
+    ],
+    "output": {
+        "type": "item",
+        "code": "game:rot",
+        "stackSize": 1
+    }
+}
